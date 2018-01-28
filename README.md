@@ -8,4 +8,9 @@ third feature
 develop change
 change again
 forth feature
+<<<<<<< HEAD
 develop commit
+||||||| merged common ancestors
+=======
+fifth feature
+>>>>>>> feature/fifth
