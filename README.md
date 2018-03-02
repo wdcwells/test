@@ -1,2 +1,2 @@
 # test
-conflict1
+conflict solved
