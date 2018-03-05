@@ -1,2 +1,1 @@
-# test
-conflict solved
+master
